@@ -8,6 +8,7 @@ The application contained within is a CMS-style blog site similar to a Wordpress
 
 <li><a href="#installation">Installation</a></li>
 <li><a href="#usage">Usage</a></li>
+<li><a href="#documentation">Documentation</a></li>
 <li><a href="#credits">Credits</a></li>
 <li><a href="#license">License</a></li>
 <li><a href="#contact">Contact</a></li>
@@ -41,6 +42,9 @@ Run the following commands:
 
 Live Deployed Application on Heroku: <a href="https://polar-scrubland-54771.herokuapp.com/">Application</a>
 
+# Documentation
+<img src="https://github.com/JoNoC0/ecommerce/blob/main/images/ecommerce-mod13.gif?raw=true" alt="Demo of e-commerce backend" title="Demo of back-end" style="max-width: 100">
+
 
 # Credits
 
@@ -62,5 +66,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 John Nguyen
 <li><a href="mailto:jnguyeningco@gmail.com">Email</a>
 <li><a href="https://www.linkedin.com/in/john-nguyen-49158621a">Linked In</a>
-<li><a href="https://github.com/JoNoC0/ecommerce">E-Commerce Back End</a>
+<li><a href="https://github.com/JoNoC0/Tech-Blog">Tech-Blog</a>
 
