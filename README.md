@@ -43,7 +43,7 @@ Run the following commands:
 Live Deployed Application on Heroku: <a href="https://polar-scrubland-54771.herokuapp.com/">Application</a>
 
 # Documentation
-<img src="https://github.com/JoNoC0/ecommerce/blob/main/images/ecommerce-mod13.gif?raw=true" alt="Demo of e-commerce backend" title="Demo of back-end" style="max-width: 100">
+<img src="https://github.com/JoNoC0/Tech-Blog/blob/main/images/tech-blog.png?raw=true" alt="tech-blog post" title="tech-blog post" style="max-width: 100">
 
 
 # Credits
