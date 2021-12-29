@@ -1,8 +1,8 @@
-async function commentFormHandler(event) {
+async function signupFormHandler(event) {
     event.preventDefault();
 
     const username = document.querySelector('#username-signup').value.trim();
-    const username = document.querySelector('#password-signup').value.trim();
+    const password = document.querySelector('#password-signup').value.trim();
 
     const post_id = window.location.toString().split('/')[
         window.location.toString().split('/').length - 1
@@ -28,4 +28,4 @@ async function commentFormHandler(event) {
     }
 }
 
-document.querySelector('.signup-form').addEventListener('submit', signupFormHandler);
+document.querySelector('#signup-form').addEventListener('submit', signupFormHandler);
